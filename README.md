@@ -28,5 +28,5 @@ WIFI CARD:Fenvi T919
 > * USBPorts.kext(Gigabyte Z370 AORUS ULTRA GAMING 2.0 USB map）
 > * AppleALC v1.5.1
 > * VirtualSMC v1.1.5
-> * WhateverGreen v1.3.7
+> * WhateverGreen v1.4.1
 > * IntelMausi v1.0.3
